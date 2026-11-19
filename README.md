@@ -5,8 +5,9 @@
 
 📒 Desenvolvimento de projetos, apresentações e trabalhos curriculares;
 
-### Você também pode me encontrar em: 
-[![Linkedin]width="60"(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/isabel-veloso-667519266)
+### Você também pode me encontrar em: &nbsp;<a href="https://br.linkedin.com/in/isabel-veloso-667519266">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60"> 
+</a>&nbsp;
 
 ### Eu faço parte do desenvolvido:
 &nbsp;<a href="https://github.com/Icarus-Lab-s">
