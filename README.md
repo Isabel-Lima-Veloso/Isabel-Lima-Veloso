@@ -1,6 +1,8 @@
 ## Olá! Sou a Isabel ✨ Seja bem-vindo ao meu perfil !
 
 🎓 Estudante de Gestão de Produção Industrial na FATEC - Faculdade de Tecnologia;
+
+
 📒 Desenvolvimento de projetos, apresentações e trabalhos curriculares;
 
 ### Você pode me encontrar em: 
