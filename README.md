@@ -8,8 +8,7 @@
 ### Você também pode me encontrar em: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/isabel-veloso-667519266)
 
-&nbsp;<a href="https://br.linkedin.com/in/isabel-veloso-667519266">
+### Eu faço parte do desenvolvido:
+&nbsp;<a href="https://github.com/Icarus-Lab-s">
   <img src="Captura de tela 2026-11-19 013605.png" width="60"> 
 </a>&nbsp;
-
-### Eu faço parte do desenvolvido:
